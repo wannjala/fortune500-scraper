@@ -6,10 +6,7 @@ This Python script scrapes the Fortune Global 500 rankings for each year from 19
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Scrapes Fortune Global 500 data for multiple years (1995-2024)
@@ -44,10 +41,4 @@ Run the script to scrape data for multiple years:
 ```bash
 python scraper.py
 ```
-
-## **Project Structure** *(Optional but helpful)*
-Here is how the files appear in the project directory. The 'data' folder will be created when saving the data to CSV.
-├── scraper.py          # The main  script
-├── requirements.txt    # Required libraries that may need to be installed
-└── data/               # Directory to store output CSV files
 
